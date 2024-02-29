@@ -38,4 +38,4 @@ python manage.py runserver
 ### Documentation
 Docs can be found at any of these links (requires running server to check):
  - [Swagger-UI](http://localhost:8000/api/schema/swagger-ui/)
- - [Redoc](http://localhost:8000/api/schema/swagger-ui/)
+ - [Redoc](http://localhost:8000/api/schema/redoc/)
